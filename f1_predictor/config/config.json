@@ -1,5 +1,5 @@
 {
   "season_train_start": 2022,
   "season_train_end": 2023,
-  "path_to_excludes": "data/excludes.txt"
+  "path_to_excludes": "excludes.txt"
 }

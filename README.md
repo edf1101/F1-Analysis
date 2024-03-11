@@ -1,4 +1,6 @@
-# F1-ML-Prediction
+# F1 Pace Prediction
+
+<img src="res/readme_img.jpeg" alt="drawing" width="650"/>
 
 ## Introduction
 This project utilised data analysis and machine learning to predict team pace in Formula 1 race and qualifying sessions.
@@ -12,9 +14,9 @@ This project utilised data analysis and machine learning to predict team pace in
 - Python 3.10+ (for newer type-hinting features)
 
 ## Installation
-
-## Getting Started
-
+1. Clone the repository
+2. Install the required packages: ```pip install -r requirements.txt```
+3. Open the Jupyter Notebook in your preferred viewer and run.
 
 ## Details
 ### Author
