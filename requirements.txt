@@ -1,0 +1,7 @@
+# Jupyter notebook
+notebook
+# Essentials
+numpy
+pandas
+matplotlib
+fastf1

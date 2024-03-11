@@ -1,5 +1,8 @@
 # Things I don't want uploaded online
-non_upload/
+f1_predictor/non_upload_f1da.ipynb
+
+# Dont upload the cache online as wastes space
+f1_predictor/cache/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
